@@ -1,0 +1,7 @@
+#EXTM3U
+#EXTINF:-1,A Fazenda
+https://amd01eng.akamaized.net/hls/live/2008102/fazenda11/master_720.m3u8
+#EXTINF:-1,A Fazenda
+https://amd01eng.akamaized.net/hls/live/2008102/fazenda11/master_720.m3u8
+#EXTINF:-1,Cinemax
+http://edge-aws.aovivo.club/hls/s:78.47.74.192/cinemax720p_49117359_b4316e144208830b34d4551e85ba85967c08ebf3.m3u8
